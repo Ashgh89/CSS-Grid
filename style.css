@@ -24,8 +24,3 @@
 .el6 {
   background-color: #0f766e;
 }
-
-/* fr: (fraction) which represents a fraction of the available space in the grid container. */
-/* grid-template-rows: auto -> on the size of the content of the items in the row. */
-/* grid-area: 2 / 2 / 3 / 3: is shorthand for grid-row-start, grid-column-start, grid-row-end and grid-column-end.
-First value -> grid-row-start/ second value -> grid-column-start/ Third value -> grid-row-end and Fourth value -> grid-column-end */
